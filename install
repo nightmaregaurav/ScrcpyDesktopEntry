@@ -1,0 +1,3 @@
+#!/bin/bash
+cp scrcpy.desktop ~/.local/share/applications/
+echo "Installed scrcpy desktop file"
