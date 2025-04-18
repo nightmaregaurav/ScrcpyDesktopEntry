@@ -1,3 +1,4 @@
 #!/bin/bash
 cp scrcpy.desktop ~/.local/share/applications/
+chmod 755 ~/.local/share/applications/scrcpy.desktop
 echo "Installed scrcpy desktop file"
